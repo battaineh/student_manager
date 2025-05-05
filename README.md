@@ -1,10 +1,25 @@
 # Student Manager
 
-This project allows you to manage student records using a SQLite database. You can perform CRUD (Create, Read, Update, Delete) operations on student data, including adding new students, viewing existing students, updating student information, and deleting students.
+A simple Python project that allows you to manage student records using a SQLite database.  
+You can add, view, update, and delete students through a terminal interface.
 
-## Setup Instructions
+---
 
-1. Clone the repository:
+## 📦 Features
 
-   ```bash
-   git clone https://github.com/battaineh/student_manager.git
+- Add new students with name, age, and grade
+- View all students in the database
+- Update student details by ID
+- Delete student records by ID
+- Input validation for IDs and age
+- Organized into separate files for interface and database logic
+
+---
+
+## 🛠 Setup Instructions
+
+1. **Clone the Repository:**
+
+```bash
+git clone https://github.com/battaineh/student_manager.git
+cd student_manager
